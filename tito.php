@@ -3,7 +3,7 @@
  * Plugin Name: Tito
  * Plugin URI: http://wordpress.org/plugins/tito/
  * Description: Probably the best event management software on the web, this plugin enables adding Tito (http://tito.io) event management to your website or blog
- * Version: 0.3
+ * Version: 0.5
  * Author: Tady Walsh
  * Author URI: http://tady.me
  * License: GPL2
