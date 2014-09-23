@@ -1,0 +1,13 @@
+Creating a WordPress plugin
+
+I've been working as a front end dev for just over 18 years. I've been working with WordPress for the past few years as it's convenient and, as PHP is my lingo of choice, allows me a lot of powerful control over how it works.
+
+I've known the guys over a Tito for some time and I wondered if there was a WordPress plugin for their service. I didn't have any immediate requirement for it, but having developed WordPress themes for as long as I have, I figured I should learn how to make a plugin. Creating one for Tito might be a good place to start.
+
+I contacted Paul and asked him if there was an API for Tito and explained what I wanted to do. He told me he was working on one and would let me know. A month later I got an email with a link from him. To say I was disappointed was an understatement. It was SO EASY! Why would anyone need a plugin!??!?! But then I thought about users who might be on WordPress.com (the Automatic hosted version of WordPress) who can only access their theme functionality through plugins and shortcodes. I also thought, as a simple exercise in creating a plugin, maybe it'd be better if it was easier.
+
+It took no time at all to set it up. I had a working prototype for Paul to see and approve. He was delighted too and had feedback and suggestions on how it might work from a code perspective. These are implemented now and the plugin has gone to WordPress for approval.
+
+Sometimes you have an idea of how you want something to work and in your head, there are perceived obstacles to overcome. I could have asked Paul about this and he could have said "no," but that's not the kind of guy Paul is. The API could have been large and unweilding, but it wasn't. I could have let all this stand in the way of even trying, but I didn't. I'm glad to have had the opportunity to learn from it and provide a tool for the community in return. Tito are doing great and all this plugin does is bring that greatness to another platform.
+
+Thanks guys!
