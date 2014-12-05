@@ -66,6 +66,10 @@ Lovely, thanks! Guinness please!
 4. Ticket sales as a button pop up purchase form
 
 ## Changelog
+**_0.6_**
+
+Add clarity to "Releases" field in form
+
 **_0.5_**
 
 Add banner image for plugin and icon imagery for dashboard

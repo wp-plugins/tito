@@ -2,8 +2,8 @@
 Contributors: tady
 Tags: tito, tickets, events, event management, stripe
 Requires at least: 3.0.1
-Tested up to: 4.0
-Stable tag: 0.5
+Tested up to: 4.0.1
+Stable tag: 0.6
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 
@@ -70,6 +70,9 @@ Lovely, thanks! Guinness please!
 4. Ticket sales as a button pop up purchase form
 
 == Changelog ==
+= 0.5 =
+Add clarity to "Releases" field in form
+
 = 0.5 =
 Add banner image for plugin and icon imagery for dashboard
 
