@@ -50,7 +50,7 @@ function tito_settings(){
 					</tr>
 					<tr>
 						<th scope="row"><label class="description" for="tito_settings[releases]"><?php _e('Enter specific releases','tito_domain'); ?></label></th>
-						<td><input id="tito_settings[releases]" name="tito_settings[releases]" type="text" value="<?php echo $tito_options['releases']; ?>" /><p class="description">Leave blank to display all available tickets. <br />(This will be something like <strong><em>3elajg6qcxu</em></strong>, provided on your Tito Admin Page)</p></td>
+						<td><input id="tito_settings[releases]" name="tito_settings[releases]" type="text" value="<?php echo $tito_options['releases']; ?>" /><p class="description">Leave blank to display all available tickets. <br />(This will be a release specific reference, something like <strong><em>3elajg6qcxu</em></strong>, provided on your Tito Admin Page)</p></td>
 					</tr>
 
 
